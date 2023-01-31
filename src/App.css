@@ -1,0 +1,12 @@
+.active {
+    color: #fff !important;
+    background-color: #7e25dc;
+}
+
+@media  (min-width: 768px) { 
+    .active {
+        color: #fff !important;
+        background-color: transparent;
+    }
+}
+
