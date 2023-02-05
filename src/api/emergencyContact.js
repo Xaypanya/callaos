@@ -1,6 +1,8 @@
 import { GetAllAPI } from "."
 
-const path = "/emergencyContact1"
+//dev
+const path = "/emergencyContact"
+
 
 export const EmegencyContactSelAll = async () => {
 
