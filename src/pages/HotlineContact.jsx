@@ -1,6 +1,5 @@
 import { useState } from "react"
 import { useQuery } from "react-query"
-import { RiPhoneFill, RiBuildingFill } from 'react-icons/ri'
 import { FcPhone, FcPhoneAndroid, FcHome } from 'react-icons/fc'
 import { EmegencyContactSelAll } from "../api/emergencyContact"
 import ErrorMessage from "../components/ErrorMessage"
